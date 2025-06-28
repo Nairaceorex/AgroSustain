@@ -1,0 +1,4 @@
+farm_id,species_count,area_ha,organic_matter,ph_level,soil_structure,water_consumption,yield_tons,co2_emissions,revenue,costs,labor_hours,income_per_capita,regional_average_income
+1,50,100,4.5,6.8,0.7,5000,10,1000,1000000,800000,200,30000,25000
+2,30,80,3.8,6.5,0.6,4500,8,1200,900000,750000,180,28000,25000
+3,40,120,4.0,7.0,0.65,6000,12,1100,1100000,850000,220,32000,25000

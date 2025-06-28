@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AgroSustain</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        h1 { color: #2e7d32; }
+        .upload-form { margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <h1>AgroSustain: Sustainability Assessment for Agriculture</h1>
+    <div class="upload-form">
+        <form method="post" enctype="multipart/form-data" action="/upload">
+            <label for="file">Upload CSV file with farm data:</label><br>
+            <input type="file" name="file" accept=".csv" required><br><br>
+            <input type="submit" value="Analyze Data">
+        </form>
+    </div>
+</body>
+</html>
