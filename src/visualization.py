@@ -1,4 +1,5 @@
 import folium
+import pandas as pd
 import geopandas as gpd
 import logging
 from branca.colormap import LinearColormap
